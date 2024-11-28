@@ -1,0 +1,4 @@
+# GitHub es un porgrama que sirve para ejecutar scripts de python
+# Hay dos formas de existencia de un archivo en el proceso de versionado: unacted y strong
+# Git está hecho por la empresa de Microsoft
+# Git está pensado para versionar binarios
